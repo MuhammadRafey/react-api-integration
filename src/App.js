@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Recipe from "./recipe";
-import './app.css'
+
 const App = () => {
   const id = "1f0d187a";
   const key = "78febbe58c3e01d2e2ebc7471337d6c5";
